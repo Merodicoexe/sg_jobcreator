@@ -60,7 +60,7 @@
 
 ### 1. Stažení
 \`\`\`bash
-git clone https://github.com/your-username/sg_jobcreator.git
+git clone https://github.com/Merodicoexe/sg_jobcreator.git
 \`\`\`
 
 ### 2. Umístění
@@ -68,9 +68,6 @@ Zkopírujte složku `sg_jobcreator` do vašeho `resources` adresáře.
 
 ### 3. Databáze
 Spusťte SQL script pro vytvoření potřebných tabulek:
-\`\`\`sql
--- Spusťte scripts/install.sql ve vaší MySQL databázi
-\`\`\`
 
 ### 4. Server.cfg
 Přidejte do vašeho `server.cfg`:
@@ -157,7 +154,7 @@ Config.Debug = false
 ## 📸 Screenshoty
 
 ### Dashboard
-![Dashboard](https://via.placeholder.com/800x400/1e293b/f1f5f9?text=Dashboard+View)
+![Dashboard]([https://via.placeholder.com/800x400/1e293b/f1f5f9?text=Dashboard+View](https://imgur.com/undefined))
 
 ### Job Creator
 ![Creator](https://via.placeholder.com/800x400/1e293b/f1f5f9?text=Job+Creator)
@@ -206,15 +203,12 @@ Připojte se na náš Discord username: pleonshit.cz
 ### GitHub Issues
 Pro bug reporty a feature requesty použijte [GitHub Issues](https://github.com/Merodicoexe/sg_jobcreator/issues)
 
-### Dokumentace
-Kompletní dokumentace je dostupná na [Wiki](https://github.com/Merodicoexe/sg_jobcreator/wiki)
 
 ## 🔄 Changelog
 
 ### v2.0.0 (Aktuální)
 - ✨ Přidán config.lua s flexibilními nastaveními
 - 🎨 Nové moderní UI s dark theme
-- 🔔 Podpora pro ox_lib, ESX a QB-Core notifikace
 - 🛡️ Vlastní confirm dialogy místo browser alertů
 - 📊 Dashboard s statistikami
 - 🐛 Opraveny všechny známé bugy
