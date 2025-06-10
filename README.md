@@ -154,7 +154,7 @@ Config.Debug = false
 ## 📸 Screenshoty
 
 ### Dashboard
-![Dashboard]([https://imgur.com/a/mrUJbZx.png))
+![Dashboard]([https://imgur.com/sgkt2SZ.png))
 
 ### Job Creator
 ![Creator](https://imgur.com/95z5wap.png)
