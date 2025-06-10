@@ -154,13 +154,13 @@ Config.Debug = false
 ## 📸 Screenshoty
 
 ### Dashboard
-![Dashboard]([https://via.placeholder.com/800x400/1e293b/f1f5f9?text=Dashboard+View](https://imgur.com/undefined))
+![Dashboard]([https://imgur.com/a/mrUJbZx))
 
 ### Job Creator
-![Creator](https://via.placeholder.com/800x400/1e293b/f1f5f9?text=Job+Creator)
+![Creator](https://imgur.com/95z5wap)
 
 ### Grade Management
-![Grades](https://via.placeholder.com/800x400/1e293b/f1f5f9?text=Grade+Management)
+![Grades](https://imgur.com/undefined)
 
 ## 🛠️ Vývoj
 
