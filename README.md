@@ -13,7 +13,6 @@
 - [Instalace](#-instalace)
 - [Konfigurace](#-konfigurace)
 - [Použití](#-použití)
-- [API](#-api)
 - [Screenshoty](#-screenshoty)
 - [Podpora](#-podpora)
 - [Licence](#-licence)
